@@ -1,0 +1,13 @@
+{
+  "name": "webpack-learining",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abelshare/webpack-learining.git"
+  },
+  "author": "lixuehua"
+}
